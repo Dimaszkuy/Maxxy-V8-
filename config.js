@@ -80,23 +80,23 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285380166282', 'Kahfi-XD', true],
-['6285380166282', 'Bot-KAHFI-XD', true]
+['6281259929402', 'Kahfi-XD', true],
+['6281259929402', 'Bot-KAHFI-XD', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.nomorown1 = '6285380166282'
-global.nomorown2 = '6285380166282'
+global.nomorbot = '6282142110606'
+global.nomorown = '6281259929402'
+global.nomorown1 = '6281259929402'
+global.nomorown2 = '6281259929402'
 global.nomorwa = '0'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿 X 𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
-global.namebot = '​ 𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
+global.author = 'ᴰᴵᴹᴬˢˢ ˣ ᴹᵃˣˣʸ⁻ˣᴰ'
+global.namebot = '​ ᴹᵃˣˣʸ⁻ˣᴰ'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
 global.media = 'https://telegra.ph/file/164709f787e0305472579.jpg'
 global.wm = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
