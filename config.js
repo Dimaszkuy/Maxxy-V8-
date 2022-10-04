@@ -95,42 +95,42 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'ᴰᴵᴹᴬˢˢ ˣ ᴹᵃˣˣʸ⁻ˣᴰ'
-global.namebot = '​ ᴹᵃˣˣʸ⁻ˣᴰ'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
+global.author = '𝘿𝙄𝙈𝘼𝙎𝙎 𝙓 𝙎𝙖𝙙-𝘽𝙊𝙏'
+global.namebot = '​ 𝙎𝙖𝙙-𝘽𝙊𝙏'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝘿𝙄𝙈𝘼𝙎𝙎'
 global.media = 'https://telegra.ph/file/164709f787e0305472579.jpg'
-global.wm = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
+global.wm = '𝘿𝙞𝙢𝙖𝙨𝙨 𝙎𝙡𝙚𝙗𝙚𝙬'
 global.watermark = wm
-global.wm2 = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 '
+global.wm2 = '𝘿𝙞𝙢𝙖𝙨𝙨 𝙎𝙡𝙚𝙗𝙚𝙬 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 𝐗 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿`
-global.stickpack = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 𝐗 𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
-global.stickauth = `© 𝙈𝙖𝙭𝙭𝙮-𝙓𝘿 MD`
+global.titlebot = `𝙎𝙖𝙙-𝘽𝙊𝙏 𝐗 𝘿𝙄𝙈𝘼𝙎𝙎`
+global.stickpack = '𝙎𝙖𝙙-𝘽𝙊𝙏 𝐗 𝘿𝙄𝙈𝘼𝙎𝙎'
+global.stickauth = `© 𝘿𝙞𝙢𝙖𝙨𝙨 𝙎𝙡𝙚𝙗𝙚𝙬 MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝙆𝘼𝙃𝙁𝙄-𝙓𝘿'
-global.nameown2 = '𝙈𝙖𝙭𝙭𝙮-𝙓𝘿'
+global.nameown1= '𝘿𝙄𝙈𝘼𝙎𝙎'
+global.nameown2 = '𝘿𝙄𝙈𝘼𝙎𝙎'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
-global.lynk = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
+global.lynk = 'https://chat.whatsapp.com/GoXqlT5mIagJv8F6QGCPXI'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/maxxy_ofc'
+global.sig = 'https://instagram.com/dmss_slebww'
 global.sgh = 'https://github.com/Maxxy Botz' //github
-global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/GoXqlT5mIagJv8F6QGCPXI' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085380166282'
+global.pdana = '081259929402'
 global.povo = '-'
 global.pgopay = ''
 global.plinkaja = '-' //link aja
-global.ppulsa = '085380166282'
-global.ppulsa2 = '085295374964'
+global.ppulsa = '081259929402'
+global.ppulsa2 = '081259929402'
 global.psaweria = 'https://saweria.co/MaxxyBotz'
 
 
@@ -343,9 +343,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/maxxy_ofc"
+global.urlnya = "https://www.instagram.com/dmss_slebww"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0853-8016-6282'
+global.phn = '0812-5992-9402'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
