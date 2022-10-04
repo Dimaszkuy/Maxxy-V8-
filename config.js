@@ -80,8 +80,8 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281259929402', 'Kahfi-XD', true],
-['6281259929402', 'Bot-KAHFI-XD', true]
+['6281259929402', 'Dmss-Slebww', true],
+['6281259929402', 'Bot-Dmss-Slebww', true]
 ]
 global.mods = []
 global.prems = []
