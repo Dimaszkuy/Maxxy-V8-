@@ -302,18 +302,18 @@ global.drtf = 'text/rtf'
 //OPTIONS
 global.optsnsfw = true // Untuk mematikan Dan Menyalakan Nsfw
 global.premnsfw = true // Nsfw Mode Premium?
-global.thumb = 'https://telegra.ph/file/164709f787e0305472579.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/d228cf9e49e7413568a1c.jpg'
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/d228cf9e49e7413568a1c.jpg']
+global.thumb = 'https://i.ibb.co/Sssvjq5/thumbnail.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/Sssvjq5/thumbnail.jpg'
+global.giflogo = 'https://i.ibb.co/Sssvjq5/thumbnail.jpg'
+global.thumbs = ['https://i.ibb.co/Sssvjq5/thumbnail.jpg']
 global.thumbnailUrl = [
-  'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
-  'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
-  'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
-  'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
-  'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
+  'https://i.ibb.co/Sssvjq5/thumbnail.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
+  'https://i.ibb.co/Sssvjq5/thumbnail.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
+  'https://i.ibb.co/Sssvjq5/thumbnail.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
+  'https://i.ibb.co/Sssvjq5/thumbnail.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
+  'https://i.ibb.co/Sssvjq5/thumbnail.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
 ]
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
+global.fotonya1 = 'https://i.ibb.co/Sssvjq5/thumbnail.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/e72de2cbba03f58eba7d1.jpg' //ini juga ganti 
 global.flaaa2 = [
  "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=",
