@@ -57,7 +57,6 @@
         "express": "^4.18.1",
         "file-type": "^18.0.0",
         "fluent-ffmpeg": "^2.1.2",
-        "ffmpeg": "^4.4.1",
         "formdata-node": "^5.0.0",
         "genshin": "^1.2.4",
         "google-it": "^1.6.2",
